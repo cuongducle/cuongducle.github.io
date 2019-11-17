@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am Le Duc Cuong. Welcome to my beautiful corner
